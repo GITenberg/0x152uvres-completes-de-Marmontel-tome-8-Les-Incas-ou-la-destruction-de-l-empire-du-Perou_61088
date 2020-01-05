@@ -1,0 +1,36 @@
+_repo: 0x152uvres-completes-de-Marmontel-tome-8-Les-Incas-ou-la-destruction-de-l-empire-du-Perou_61088
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Marmontel, Jean-François
+    aliases:
+    - Marmontel, J.-F. (Jean-François)
+    - Marmontel, Jean-Francois
+    - Marmontel, Jean-François de
+    - De Marmontel, Jean-François
+    - Montmartel, Jean-François
+    - Marmontell, Jean-François
+    - Du Marmontel, Jean-François
+    - Marmontel, Jean François
+    birthdate: 1723
+    deathdate: 1799
+    gutenberg_agent_id: '32074'
+    url: http://www.gutenberg.org/2009/agents/32074
+    wikipedia: http://en.wikipedia.org/wiki/Jean-Fran%C3%A7ois_Marmontel
+description: ''
+gutenberg_bookshelf:
+- FR Nouveautés
+- FR Littérature
+gutenberg_issued: '2020-01-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61088'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: "Œ\x8Cuvres complètes de Marmontel, tome 8\r\nLes Incas, ou la destruction\
+  \ de l'empire du Pérou"
+url: http://www.gutenberg.org/ebooks/61088
