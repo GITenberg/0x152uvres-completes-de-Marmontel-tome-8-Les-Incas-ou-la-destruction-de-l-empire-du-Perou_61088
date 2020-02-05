@@ -1,5 +1,8 @@
 _repo: 0x152uvres-completes-de-Marmontel-tome-8-Les-Incas-ou-la-destruction-de-l-empire-du-Perou_61088
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 61088-h/images/cover.jpg
 creator:
   author:
     agent_name: Marmontel, Jean-François
@@ -18,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/32074
     wikipedia: http://en.wikipedia.org/wiki/Jean-Fran%C3%A7ois_Marmontel
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61088#0x152uvres-completes-de-Marmontel-tome-8-Les-Incas-ou-la-destruction-de-l-empire-du-Perou
 gutenberg_bookshelf:
 - FR Nouveautés
 - FR Littérature
